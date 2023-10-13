@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Arnold-Js
-- 👀 I’m interested in aprender a programar c#.
+- 👋 Hola, yo soy @Arnold-Js
+- 👀  se leer codigo.
+- 
 
 <!---
 Arnold-Js/Arnold-Js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
