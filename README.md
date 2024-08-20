@@ -1,5 +1,7 @@
 - 👋 Hola, yo soy @Arnold-Js
-- 👀  se leer codigo.
+- soy programador, especializado en desarrollo de software.
+- los lenguajes de programacion con los que eh tranajado son:
+- JAVA, JAVA SCRIPT, PHP, HTML5, CS, POO, 
 - 
 
 <!---
